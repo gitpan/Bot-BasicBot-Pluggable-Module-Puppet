@@ -28,11 +28,12 @@ my %WriteMakefileArgs = (
     "Bot::BasicBot::Pluggable::Module" => 0,
     "POE" => 0,
     "POE::Component::Server::TCP" => 0,
+    "YAML" => 0,
     "base" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "1.00",
+  "VERSION" => "1.01",
   "test" => {
     "TESTS" => "t/*.t"
   }

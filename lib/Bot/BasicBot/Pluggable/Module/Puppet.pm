@@ -1,6 +1,6 @@
 package Bot::BasicBot::Pluggable::Module::Puppet;
 {
-  $Bot::BasicBot::Pluggable::Module::Puppet::VERSION = '1.00';
+  $Bot::BasicBot::Pluggable::Module::Puppet::VERSION = '1.01';
 }
 
 use strict;
